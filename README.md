@@ -1,5 +1,5 @@
 ## Sales and Customers Dashboard
-- Followed tutorial made by Data with Baara (Link to his YT channel)[https://www.youtube.com/@DataWithBaraa] (Thank you Baara!!) 
+- Followed tutorial made by Data with Baara [Link to his YT channel](https://www.youtube.com/@DataWithBaraa) (Thank you Baara!!) 
 
 ### 📊 Introduction
 
